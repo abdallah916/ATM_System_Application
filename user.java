@@ -38,7 +38,7 @@ public class user {
     return balance;
   }
 
-  // ✅ دي اللي ناقصة عندك
+
   public void setbalance(double balance) {
     this.balance = balance;
   }
